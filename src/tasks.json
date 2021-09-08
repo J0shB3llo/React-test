@@ -1,0 +1,28 @@
+{
+    "tasks": [
+        {
+            "title": "Tarea 1 de prueba",
+            "user": "Josh",
+            "description": "Tarea solo de prueba",
+            "priority": "low"
+        },
+        {
+            "title": "Tarea 2 de prueba",
+            "user": "Pedro",
+            "description": "Tarea solo de prueba",
+            "priority": "medium"
+        },
+        {
+            "title": "Tarea 3 de prueba",
+            "user": "Maria",
+            "description": "Tarea solo de prueba",
+            "priority": "high"
+        },
+        {
+            "title": "Tarea 4 de prueba",
+            "user": "Joseph",
+            "description": "Tarea solo de prueba",
+            "priority": "medium"
+        }
+    ]
+}
